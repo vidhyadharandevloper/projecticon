@@ -1,0 +1,35 @@
+#head{
+	font-size:50px;
+	color:red;
+	text-align:center;
+}
+body{
+	background-image:url("web-development-programming-resized-500x500.webp");
+background-size:cover;
+}
+#p1{
+	text-align:center;
+	background-color:lightblue;
+	margin-left:100px;
+	margin-right:100px;
+}
+#head2{
+	font-size:50px;
+	color:red;
+	text-align:center;
+}
+#p2{
+	text-align:center;
+	background-color:lightblue;
+	margin-left:100px;
+	margin-right:100px;
+}
+#bot{
+	font-size:20px;
+	height:50px;
+	width:200px;
+	background-color:lightblue;
+	border-color:blue;
+	border-width:6px;
+	border-style:solid;
+}

@@ -1,0 +1,65 @@
+
+body{
+     background-image:url("web-development-programming-resized-500x500.webp");
+     background-size:cover;
+	
+	 }
+	 h1{
+		 margin-top:1px;
+		 text-align:center;
+		 color:orange;
+		 font-size:50px;
+	 }
+*{
+	
+	margin:0;
+	padding:0;
+}
+nav{
+	background-color:blue;
+	padding:1rem;
+}
+nav ul{
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	display:flex;
+	justify-content:space-around;
+}
+nav ul li{
+	display:inline;
+}
+nav ul li a{
+	color:white;
+	text-decoration:none;
+	padding:0.5rem 1rem;
+	display:block;
+}
+nav ul li a:hover{
+	background-color:#575757;
+	border:5px;
+}
+#image1{
+	margin-left:250px;
+	margin-top:10px;
+	height:200px;
+	width:300px;
+}
+#fr{
+	color:orange;
+}
+#am{
+	color:orange;
+	padding:80px;
+}
+#back{
+	height:200px;
+	width:300px;
+	padding-bottom:50px;
+
+}
+#btn{
+	height:50px;
+	width:150px;
+	background-color:yellow;
+}
